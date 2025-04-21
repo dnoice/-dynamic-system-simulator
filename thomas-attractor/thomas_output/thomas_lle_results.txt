@@ -1,0 +1,16 @@
+==============================
+ Thomas' Attractor Analysis Results
+==============================
+
+System Parameters:
+  b = 0.1900
+
+LLE Calculation Settings:
+  Target Integration Time: 400.00 units
+  Actual Integration Time: 400.00 units
+  Number of Steps:         89999
+  Initial Separation (ε):  1.00e-09
+
+Lyapunov Exponent Results:
+Estimated LLE: 0.0049
+  Interpretation: LLE near zero -> periodic/quasi-periodic.
