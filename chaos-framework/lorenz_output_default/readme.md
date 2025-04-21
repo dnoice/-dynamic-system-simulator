@@ -50,11 +50,28 @@ $$
 
 ## 4. Example Outputs
 
-### Static Plot (3D Attractor + 2D Projections)
-[Click here to view example plot](../assets/example_static_plot.png)
+Here's a glimpse of the visualizations this framework can generate:
 
-### Animation Video (MP4)
-[Click here to view example animation](../assets/example_animation.mp4)
+### Example Static Plot (3D Attractor + 2D Projections)
+*Click the image to view the example static plot image.*
+
+<a href="../assets/example_static_plot.png" target="_blank" title="Click to view example static plot">
+  <img src="../assets/example_static_plot.png" alt="Example Static Plot Output (3D Attractor + Projections)" width="400">
+</a>
+<br/>
+*(Static plots provide a quick overview of the attractor's structure.)*
+<br/>
+
+### Example Animation Video (MP4)
+*(Animations show the trajectory evolving over time.)*
+
+<video controls width="400" title="Example Attractor Animation Video">
+  <source src="../assets/example_animation.mp4" type="video/mp4">
+  Sorry, your browser doesn't support embedded videos.
+  You can <a href="../assets/example_animation.mp4">download the MP4 video</a> instead.
+</video>
+<br/>
+*(Note: Video embedding requires appropriate file paths relative to the README and browser support.)*
 
 ## 5. Dependencies
 
