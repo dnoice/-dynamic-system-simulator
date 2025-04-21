@@ -1,0 +1,17 @@
+=================================
+Lorenz Attractor Analysis Results
+=================================
+
+System Parameters:
+  σ: 10.0000
+  ρ: 28.0000
+  β: 2.6667
+
+LLE Calculation Settings:
+  Integration Time Used: 150.00 (Target: 150.00)
+  Number of Steps Used: 39999
+  Initial Separation (ε): 1.00e-09
+
+Lyapunov Exponent Results:
+Estimated LLE: 0.8697
+  Interpretation: Positive LLE -> chaotic behavior.
