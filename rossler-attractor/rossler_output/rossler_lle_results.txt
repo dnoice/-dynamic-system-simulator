@@ -1,0 +1,18 @@
+==============================
+ Rössler System Analysis Results
+==============================
+
+System Parameters:
+  a = 0.2000
+  b = 0.2000
+  c = 5.7000
+
+LLE Calculation Settings:
+  Target Integration Time: 250.00 units
+  Actual Integration Time: 250.00 units
+  Number of Steps:         49999
+  Initial Separation (ε):  1.00e-09
+
+Lyapunov Exponent Results:
+Estimated LLE: 0.0622
+  Interpretation: Positive LLE -> chaotic behavior.
