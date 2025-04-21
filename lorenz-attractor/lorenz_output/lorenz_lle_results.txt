@@ -1,0 +1,18 @@
+==============================
+ Lorenz System Analysis Results
+==============================
+
+System Parameters:
+  Sigma (σ) = 10.0000
+  Rho   (ρ) = 28.0000
+  Beta  (β) = 2.6667 (or 8/3)
+
+LLE Calculation Settings:
+  Target Integration Time: 150.00 units
+  Actual Integration Time: 150.00 units
+  Number of Steps:         29999
+  Initial Separation (ε):  1.00e-09
+
+Lyapunov Exponent Results:
+Estimated LLE: 0.8594
+  Interpretation: Positive LLE suggests chaotic behavior (sensitive dependence on initial conditions).
