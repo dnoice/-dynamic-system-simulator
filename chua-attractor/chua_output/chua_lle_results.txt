@@ -1,0 +1,20 @@
+==============================
+ Chua's Circuit Analysis Results
+==============================
+
+System Parameters:
+  alpha = 9.0000
+  beta  = 14.2857
+  m0    = -0.1429
+  m1    = 0.2857
+  E     = 1.0000 (Implicit breakpoint)
+
+LLE Calculation Settings:
+  Target Integration Time: 250.00 units
+  Actual Integration Time: 250.00 units
+  Number of Steps:         49999
+  Initial Separation (ε):  1.00e-09
+
+Lyapunov Exponent Results:
+Estimated LLE: -0.0209
+  Interpretation: Negative LLE suggests convergence to stable point/cycle.
